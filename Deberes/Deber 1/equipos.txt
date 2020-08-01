@@ -1,0 +1,3 @@
+ 
+Barcelona FC;12;1999;True;Ronald;[]; 
+Chacaritas3;1;1999;False;Juan;_Stalin; 
