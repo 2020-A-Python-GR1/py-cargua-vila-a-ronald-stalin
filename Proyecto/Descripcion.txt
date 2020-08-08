@@ -1,0 +1,4 @@
+En el proyecto se utilizara la libreria de Sockets y Thread en la
+cual se utilizara para crear un servidor que acepte a varios clientes.
+Ademas se utilizar mas librerias para realizar la parte gráfica de las 
+interfaces, así como el guardado de la información. 
